@@ -88,14 +88,4 @@
 - Donated blood **5+ times**
 - Active in college events & workshops
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=711523bad045&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=711523bad045&theme=tokyonight" />
-</p>
-
----
-
-###  “Code with purpose. Build with impact.”
+                                                                                     ###  “Code with purpose. Build with impact.”
