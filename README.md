@@ -88,4 +88,4 @@
 - Donated blood **5+ times**
 - Active in college events & workshops
 
-                                                                                     ###  “Code with purpose. Build with impact.”
+                                                ###  “Code with purpose. Build with impact.”
