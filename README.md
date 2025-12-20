@@ -21,7 +21,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,fastapi,mysql,mongodb,git,github" />
 </p>
 
-
 ## Featured Projects
 
 ###  TNPSC Learning Hub (Full Stack)
