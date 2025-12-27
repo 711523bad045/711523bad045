@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner.png.png" alt="Rajesh N Banner" />
 </p>
-<h1 align="center">Hi ,I'm Rajesh N </h1>
+<h1 align="center">Hi ,I'm Rajesh N</h1>
 <h3 align="center">Full Stack Developer | AI & Data Science Student | Problem Solver</h3>
 
 <p align="center">
