@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">Hi ,I'm Rajesh N</h1>
 <h3 align="center">Full Stack Developer | AI & Data Science Student | Problem Solver</h3>
-
 <p align="center">
   <a href="mailto:kit27.ad45@gmail.com">📧 Email</a> 
   <a href="https://linkedin.com/in/rajesh-n-4922622a6">🔗 LinkedIn</a>
