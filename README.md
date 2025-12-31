@@ -21,7 +21,6 @@
 </p>
 
 ## Featured Projects
-
 ###  TNPSC Learning Hub (Full Stack)
 **Tech:** React.js, Node.js, MySQL, Postman  
 - Complete learning platform for TNPSC exam preparation  
