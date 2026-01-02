@@ -7,7 +7,6 @@
   <a href="mailto:kit27.ad45@gmail.com">📧 Email</a> 
   <a href="https://linkedin.com/in/rajesh-n-4922622a6">🔗 LinkedIn</a>
 </p>
-
 ## About Me
 -  **B.Tech – Artificial Intelligence & Data Science (Pre-Final Year)**
 -   KIT – Kalaignar Karunanidhi Institute of Technology, Coimbatore
@@ -19,7 +18,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,fastapi,mysql,mongodb,git,github" />
 </p>
-
 ## Featured Projects
 ###  TNPSC Learning Hub (Full Stack)
 **Tech:** React.js, Node.js, MySQL, Postman  
