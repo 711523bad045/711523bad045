@@ -23,20 +23,20 @@
 ```javascript
 const rajesh = {
     pronouns: "He" | "Him",
-    location: "Närnaund, Haryana → Coimbatore",
+    location: "Coimbatore",
     education: "B.Tech AI & Data Science @ KIT",
-    year: "Pre-Final Year (The Dangerous Zone 😅)",
+    year: "Pre-Final Year (The Dangerous Zone )",
     role: "Freelance Full Stack Dev",
     dailyRoutine: ["Code", "Debug", "Coffee", "Repeat"],
     codeStyle: "Clean, Commented, & Caffeinated",
     experience: {
         clientProjects: 6,
-        problemsSolved: "670+ (and counting...)",
+        problemsSolved: "1000+ (and counting...)",
         yearsOfCoding: 2,
         cupsOfCoffee: "∞"
     },
     currentMission: "Building stuff that actually works",
-    funFact: "I've solved more coding problems than life problems 🤷‍♂️"
+    funFact: "I've solved more coding problems than life problems "
 };
 ```
 
@@ -44,11 +44,11 @@ const rajesh = {
 
 ---
 
-## 🏆 Competitive Programming Arsenal
+##  Competitive Programming Arsenal
 
 <div align="center">
 
-### 📊 LeetCode - Where I Torture Data Structures
+###  LeetCode - Where I Torture Data Structures
 
 <a href="https://leetcode.com/u/rajeshkit/">
   <img src="https://leetcard.jacoblin.cool/rajeshkit?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
@@ -71,7 +71,7 @@ const rajesh = {
 </tr>
 </table>
 
-### 🌟 CodeChef - My Spice Tolerance Test
+###  CodeChef - My Spice Tolerance Test
 
 <a href="https://www.codechef.com/users/kit27ad45">
   <img src="https://cp-logo.vercel.app/codechef/kit27ad45" alt="CodeChef Rating" />
@@ -81,7 +81,7 @@ const rajesh = {
 <tr>
 <td align="center">
   <img src="https://img.shields.io/badge/Rating-1450-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <br/><sub>2⭐ Chef</sub>
+  <br/><sub>2 Chef</sub>
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Solved-370+-success?style=for-the-badge" />
@@ -94,13 +94,13 @@ const rajesh = {
 </tr>
 </table>
 
-<p><i>🎯 Also haunting Codeforces, Coding Ninjas & HackerRank (when I remember my passwords)</i></p>
+<p><i> Also haunting Codeforces, Coding Ninjas & HackerRank (when I remember my passwords)</i></p>
 
 </div>
 
 ---
 
-## 💻 GitHub Stats (The Truth Revealed)
+##  GitHub Stats (The Truth Revealed)
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=711523bad045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" />
@@ -118,7 +118,7 @@ const rajesh = {
 
 ---
 
-## 🛠️ Tech Stack (My Digital Toolbox)
+##  Tech Stack (My Digital Toolbox)
 
 <div align="center">
 
@@ -161,7 +161,7 @@ const rajesh = {
 
 ---
 
-## 🚀 Featured Projects (Stuff That Actually Works!)
+##  Featured Projects (Stuff That Actually Works!)
 
 <div align="center">
 
@@ -169,7 +169,7 @@ const rajesh = {
 <tr>
 <td width="50%">
 
-### 🎯 TNPSC Learning Hub
+###  TNPSC Learning Hub
 **The Government Exam Cracker**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -178,15 +178,15 @@ const rajesh = {
 
 Full-fledged learning platform with REST APIs, user management, and more bells & whistles than a Christmas tree.
 
-- 🔐 Auth that actually keeps bad guys out
-- 📹 Video lectures (buffering not included)
-- 📊 Progress tracking (guilt-free)
-- 🎨 Responsive UI (looks good on your grandma's phone too)
+-  Auth that actually keeps bad guys out
+-  Video lectures (buffering not included)
+-  Progress tracking (guilt-free)
+-  Responsive UI (looks good on your grandma's phone too)
 
 </td>
 <td width="50%">
 
-### 👥 Employee Management System
+###  Employee Management System
 **The Office Paper Killer**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -195,10 +195,10 @@ Full-fledged learning platform with REST APIs, user management, and more bells &
 
 Production-ready EMS because Excel sheets are so 2010.
 
-- 🔑 JWT auth (NSA-approved*)
-- 👤 Employee CRUD (Create, Read, Update, Delete... and Coffee)
-- 🎭 Role-based access (Keep the interns away from payroll)
-- ✅ Task tracking (Your boss's dream come true)
+-  JWT auth (NSA-approved*)
+-  Employee CRUD (Create, Read, Update, Delete... and Coffee)
+-  Role-based access (Keep the interns away from payroll)
+-  Task tracking (Your boss's dream come true)
 
 <sub>*Not actually approved by NSA</sub>
 
@@ -208,58 +208,7 @@ Production-ready EMS because Excel sheets are so 2010.
 <tr>
 <td width="50%">
 
-### 🏫 Dynamic School Website
-**The Digital Notice Board**
-[`View Repo →`](https://github.com/711523bad045/Dynamic-School-Website)
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
-Multi-page responsive website that loads faster than your morning coffee. Built for a real school that wanted to ditch their ancient website (from the floppy disk era).
-
-**What's Inside:**
-- 📱 Works on everything (even your smartwatch, probably)
-- 🔐 Local storage auth (client wanted simple, client got simple)
-- 🎨 Modern UI with smooth animations
-- 📰 Dynamic content management
-- 📧 Contact forms that don't go to spam
-- ⚡ Performance score: 95+ (PageSpeed loves it)
-- 📚 Multiple pages: Home, About, Academics, Gallery, Contact
-
-**Why It's Cool:** Client brief = "Make it modern but not fancy." Mission accomplished. No frameworks, just pure HTML/CSS/JS proving vanilla can be spicy too.
-
-</td>
-<td width="50%">
-
-### ✅ Task Management App
-**The Procrastination Fighter**
-[`View Repo →`](https://github.com/711523bad045/Task-Management-App)
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/LocalStorage-FFA500?style=flat&logo=json&logoColor=white" />
-
-Because sticky notes are for amateurs and your brain has better things to remember.
-
-**Features That Actually Help:**
-- 📁 Organize tasks like Marie Kondo (spark joy or delete)
-- ⚡ Real-time updates (faster than your motivation drops)
-- 🎯 Category-based organization (Work, Personal, Random Ideas at 3AM)
-- 🎨 Intuitive sidebar navigation
-- ✏️ Edit/Delete without confirmation anxiety
-- 💾 LocalStorage persistence (survives browser crashes)
-- 🌈 Clean UI that doesn't hurt eyes
-
-**The Real Talk:** Built this because I kept forgetting client deadlines (not anymore!). Now my calendar and I are best friends.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI Knowledge Assistant
+### AI Knowledge Assistant
 **Your 24/7 Smart Study Buddy**
 [`View Repo →`](https://github.com/711523bad045/AI-Knowledge-Assistant)
 
@@ -271,14 +220,14 @@ Because sticky notes are for amateurs and your brain has better things to rememb
 Full-stack AI knowledge assistant that's smarter than your group chat (and actually helps with homework).
 
 **Intelligence Features:**
-- 🧠 AI-powered Q&A system (GPT integration done right)
-- 💬 Natural language processing
-- 📚 Context-aware responses
-- 🔍 Smart search functionality
-- 💾 Conversation history (remember what you forgot)
-- 🎨 Clean React frontend
-- ⚡ FastAPI backend (because speed matters)
-- 🔐 User authentication & personalization
+-  AI-powered Q&A system (GPT integration done right)
+-  Natural language processing
+-  Context-aware responses
+-  Smart search functionality
+-  Conversation history (remember what you forgot)
+-  Clean React frontend
+-  FastAPI backend (because speed matters)
+-  User authentication & personalization
 
 **The Stack:**
 - **Frontend:** React with Hooks, Modern UI/UX
@@ -291,7 +240,7 @@ Full-stack AI knowledge assistant that's smarter than your group chat (and actua
 </td>
 <td width="50%">
 
-### 🏢 Company Intelligence AI
+###  Company Intelligence AI
 **From Domain to Deep Insights**
 [`View Repo →`](https://github.com/711523bad045/Company_intelligence-Ai)
 
@@ -303,14 +252,14 @@ Full-stack AI knowledge assistant that's smarter than your group chat (and actua
 Give it a company domain, get back everything except their office WiFi password. Perfect for sales research, competitive analysis, or healthy curiosity.
 
 **What It Does:**
-- 🔍 Automated web scraping & data mining
-- 🏢 Company information aggregation
-- 📊 Industry analysis & insights
-- 👥 Key personnel identification
-- 💼 Product/service cataloging
-- 📈 Market positioning analysis
-- 🌐 Social media presence mapping
-- 📧 Contact information extraction
+-  Automated web scraping & data mining
+-  Company information aggregation
+-  Industry analysis & insights
+-  Key personnel identification
+-  Product/service cataloging
+-  Market positioning analysis
+-  Social media presence mapping
+-  Contact information extraction
 
 **Tech Magic:**
 - **Scraping:** BeautifulSoup, Selenium (for the stubborn sites)
@@ -330,7 +279,7 @@ Give it a company domain, get back everything except their office WiFi password.
 
 ---
 
-## 🎯 Achievements (Humble Brag Section)
+##  Achievements (Humble Brag Section)
 
 <div align="center">
 
@@ -339,21 +288,21 @@ Give it a company domain, get back everything except their office WiFi password.
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/trophy.png" width="80" />
 <br />
-<b>🥈 2nd Prize</b>
+<b> 2nd Prize</b>
 <br />
 <i>Debugging Competition<br/>KPR College<br/>(Found bugs faster than QA)</i>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/document.png" width="80" />
 <br />
-<b>📄 Research Paper</b>
+<b> Research Paper</b>
 <br />
 <i>Scopus Publication<br/>CNN-LSTM System<br/>(Sounds fancy, I know)</i>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/laptop-coding.png" width="80" />
 <br />
-<b>💻 6+ Projects</b>
+<b> 6+ Projects</b>
 <br />
 <i>Real Client Work<br/>Production Level<br/>(Not just TODO apps)</i>
 </td>
@@ -371,7 +320,7 @@ Give it a company domain, get back everything except their office WiFi password.
 
 ---
 
-## 🌟 Community Stuff (Giving Back)
+##  Community Stuff (Giving Back)
 
 <div align="center">
 
@@ -380,28 +329,28 @@ Give it a company domain, get back everything except their office WiFi password.
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/teacher.png" width="80" />
 <br />
-<b>👨‍🏫 Mentorship</b>
+<b> Mentorship</b>
 <br />
 <i>Guided 20+ first-years<br/>Taught them git > panic</i>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/blood-donation.png" width="80" />
 <br />
-<b>🩸 Blood Donor</b>
+<b Blood Donor</b>
 <br />
 <i>5+ donations<br/>Type: Bug-Free+</i>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/groups.png" width="80" />
 <br />
-<b>🎪 Event Junkie</b>
+<b> Event Junkie</b>
 <br />
 <i>College workshops<br/>Free pizza > sleep</i>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/open-source.png" width="80" />
 <br />
-<b>🌐 OSS Contributor</b>
+<b> OSS Contributor</b>
 <br />
 <i>Pull requests > Push ups<br/>(Most of the time)</i>
 </td>
@@ -412,7 +361,7 @@ Give it a company domain, get back everything except their office WiFi password.
 
 ---
 
-## 📫 Let's Connect! (I Promise I Reply... Eventually)
+##  Let's Connect! (I Promise I Reply... Eventually)
 
 <div align="center">
 
@@ -458,7 +407,7 @@ Give it a company domain, get back everything except their office WiFi password.
 
 <div align="center">
 
-### 💭 Life Philosophy
+###  Life Philosophy
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
@@ -474,7 +423,7 @@ Give it a company domain, get back everything except their office WiFi password.
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
 
-**© 2025 Rajesh N | Crafted with ❤️, ☕, and lots of Stack Overflow**
+**© 2025 Rajesh N | Crafted with ❤️, and lots of Stack Overflow**
 
 *P.S. - If you're reading this, you're awesome! Drop a ⭐ on my repos!*
 
