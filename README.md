@@ -3,15 +3,15 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Hey!+I'm+Rajesh+N+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;670%2B+Problems+Solved+on+CP+Platforms+%F0%9F%94%A5;6%2B+Production+Projects+Delivered+%F0%9F%9A%80;Building+Scalable+Web+Applications+%E2%9A%A1;2+Years+of+Consistent+Coding+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Hey!+I'm+Rajesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;670%2B+Problems+Solved+%F0%9F%94%A5;Building+Real+Client+Projects+%F0%9F%9A%80;Code%2C+Coffee%2C+Repeat+%E2%98%95;2+Years+of+Consistent+Grinding+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:kit27.ad45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rajesh-n-4922622a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="YOUR_CODECHEF_URL"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" />
+  <a href="https://leetcode.com/u/rajeshkit/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/kit27ad45"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=711523bad045&label=Profile%20Views&color=667eea&style=for-the-badge" />
 </p>
 
 ---
@@ -23,19 +23,20 @@
 ```javascript
 const rajesh = {
     pronouns: "He" | "Him",
-    education: "B.Tech AI & Data Science",
-    college: "KIT, Coimbatore",
-    year: "Pre-Final Year",
-    role: "Freelance Full Stack Developer",
-    dailyRoutine: [coding, problemSolving, learning],
+    location: "Närnaund, Haryana → Coimbatore",
+    education: "B.Tech AI & Data Science @ KIT",
+    year: "Pre-Final Year (The Dangerous Zone 😅)",
+    role: "Freelance Full Stack Dev",
+    dailyRoutine: ["Code", "Debug", "Coffee", "Repeat"],
+    codeStyle: "Clean, Commented, & Caffeinated",
     experience: {
-        clientProjects: "6+",
-        problemsSolved: "670+",
-        yearsOfCoding: "2+",
-        mentored: "20+ students"
+        clientProjects: 6,
+        problemsSolved: "670+ (and counting...)",
+        yearsOfCoding: 2,
+        cupsOfCoffee: "∞"
     },
-    currentFocus: "Building Production Apps",
-    funFact: "I debug code faster than I make coffee ☕"
+    currentMission: "Building stuff that actually works",
+    funFact: "I've solved more coding problems than life problems 🤷‍♂️"
 };
 ```
 
@@ -43,91 +44,85 @@ const rajesh = {
 
 ---
 
-## 🏆 Competitive Programming Stats
+## 🏆 Competitive Programming Arsenal
 
 <div align="center">
 
-### 📊 LeetCode Statistics
+### 📊 LeetCode - Where I Torture Data Structures
 
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/rajeshkit/">
+  <img src="https://leetcard.jacoblin.cool/rajeshkit?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Rating-1600-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Problems-300+-00b8a3?style=for-the-badge" />
+  <br/><sub>Still grinding</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Solved-300+-00b8a3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-2%20Years-orange?style=for-the-badge" />
+  <br/><sub>Consistency > Intensity</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Rank-Top%2023.6%25-yellow?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Streak-2%20Years-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rank-Top%2023.6%25-yellow?style=for-the-badge" />
+  <br/><sub>Getting there!</sub>
 </td>
 </tr>
 </table>
 
-### 🌟 CodeChef Statistics
+### 🌟 CodeChef - My Spice Tolerance Test
 
-<a href="YOUR_CODECHEF_URL">
-  <img src="https://cp-logo.vercel.app/codechef/YOUR_CODECHEF_USERNAME" alt="CodeChef Stats" />
+<a href="https://www.codechef.com/users/kit27ad45">
+  <img src="https://cp-logo.vercel.app/codechef/kit27ad45" alt="CodeChef Rating" />
 </a>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Rating-1450-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rating-1450-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <br/><sub>2⭐ Chef</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Stars-2⭐-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solved-370+-success?style=for-the-badge" />
+  <br/><sub>More than my calorie count</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Solved-370+-success?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Active-2%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active-2%20Years-blue?style=for-the-badge" />
+  <br/><sub>Long contests = Life</sub>
 </td>
 </tr>
 </table>
 
-<p><i>🎯 Also active on Codeforces, Coding Ninjas & HackerRank</i></p>
+<p><i>🎯 Also haunting Codeforces, Coding Ninjas & HackerRank (when I remember my passwords)</i></p>
 
 </div>
 
 ---
 
-## 💻 GitHub Analytics
+## 💻 GitHub Stats (The Truth Revealed)
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=711523bad045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=711523bad045&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=711523bad045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=711523bad045&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="98%" />
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=711523bad045&theme=tokyonight" width="98%" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack (My Digital Toolbox)
 
 <div align="center">
 
-### Frontend Development
+### Frontend - Making Things Pretty
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -136,7 +131,7 @@ const rajesh = {
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### Backend Development
+### Backend - Where the Magic Happens
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -145,7 +140,7 @@ const rajesh = {
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### Database & Cloud
+### Database - Data Hoarding HQ
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -153,7 +148,7 @@ const rajesh = {
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### Tools & Technologies
+### Tools - My Daily Drivers
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -166,7 +161,7 @@ const rajesh = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Stuff That Actually Works!)
 
 <div align="center">
 
@@ -175,33 +170,37 @@ const rajesh = {
 <td width="50%">
 
 ### 🎯 TNPSC Learning Hub
+**The Government Exam Cracker**
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 
-Complete learning platform with REST APIs for users, questions, videos & authentication. Fully responsive with optimized UI.
+Full-fledged learning platform with REST APIs, user management, and more bells & whistles than a Christmas tree.
 
-**🌟 Features:**
-- User authentication & management
-- Video & question database
-- Progress tracking
-- Admin dashboard
+- 🔐 Auth that actually keeps bad guys out
+- 📹 Video lectures (buffering not included)
+- 📊 Progress tracking (guilt-free)
+- 🎨 Responsive UI (looks good on your grandma's phone too)
 
 </td>
 <td width="50%">
 
 ### 👥 Employee Management System
+**The Office Paper Killer**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 
-Production-ready EMS with JWT authentication, role management & task tracking.
+Production-ready EMS because Excel sheets are so 2010.
 
-**🌟 Features:**
-- JWT authentication
-- Employee CRUD operations
-- Role-based access control
-- Task assignment system
+- 🔑 JWT auth (NSA-approved*)
+- 👤 Employee CRUD (Create, Read, Update, Delete... and Coffee)
+- 🎭 Role-based access (Keep the interns away from payroll)
+- ✅ Task tracking (Your boss's dream come true)
+
+<sub>*Not actually approved by NSA</sub>
 
 </td>
 </tr>
@@ -210,32 +209,34 @@ Production-ready EMS with JWT authentication, role management & task tracking.
 <td width="50%">
 
 ### 🏫 Dynamic School Website
+**The Digital Notice Board**
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
-Multi-page responsive website with local storage based authentication.
+Multi-page responsive website that loads faster than your morning coffee.
 
-**🌟 Features:**
-- Responsive design
-- Login/Signup system
-- Dynamic content
-- Fast performance
+- 📱 Works on everything (even your smartwatch, probably)
+- 🔐 Local storage auth (client wanted simple, client got simple)
+- ⚡ Performance that makes Google jealous
+- 🎨 Design that doesn't hurt eyes
 
 </td>
 <td width="50%">
 
 ### ✅ Task Management App
+**The Procrastination Fighter**
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
-Modern productivity app with category-based task tracking.
+Because sticky notes are for amateurs.
 
-**🌟 Features:**
-- Task categorization
-- Real-time updates
-- Sidebar navigation
-- Intuitive UI
+- 📁 Organize tasks like Marie Kondo
+- ⚡ Real-time updates (faster than your motivation drops)
+- 🎯 Intuitive UI (even your parents can use it)
+- 🌈 Pretty colors (dopamine boost included)
 
 </td>
 </tr>
@@ -245,24 +246,7 @@ Modern productivity app with category-based task tracking.
 
 ---
 
-## 📈 Coding Journey Visualization
-
-<div align="center">
-
-### 🗓️ Contribution Heatmap
-<img src="https://ghchart.rshah.org/667eea/YOUR_GITHUB_USERNAME" alt="Contribution Graph" width="98%" />
-
-### 📊 Coding Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f" width="49%" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="98%" />
-
-</div>
-
----
-
-## 🎯 Achievements & Milestones
+## 🎯 Achievements (Humble Brag Section)
 
 <div align="center">
 
@@ -273,28 +257,28 @@ Modern productivity app with category-based task tracking.
 <br />
 <b>🥈 2nd Prize</b>
 <br />
-<i>Debugging Competition<br/>KPR College</i>
+<i>Debugging Competition<br/>KPR College<br/>(Found bugs faster than QA)</i>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/document.png" width="80" />
 <br />
 <b>📄 Research Paper</b>
 <br />
-<i>Scopus Publication<br/>CNN-LSTM System</i>
+<i>Scopus Publication<br/>CNN-LSTM System<br/>(Sounds fancy, I know)</i>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/laptop-coding.png" width="80" />
 <br />
 <b>💻 6+ Projects</b>
 <br />
-<i>Production Level<br/>Client Projects</i>
+<i>Real Client Work<br/>Production Level<br/>(Not just TODO apps)</i>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/graduation-cap.png" width="80" />
 <br />
 <b>🎓 10+ Certificates</b>
 <br />
-<i>Coursera & Infosys<br/>NPTEL & More</i>
+<i>Coursera, Infosys, NPTEL<br/>& More<br/>(LinkedIn loves me)</i>
 </td>
 </tr>
 </table>
@@ -303,43 +287,7 @@ Modern productivity app with category-based task tracking.
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-| Platform | Certifications | Domain |
-|:--------:|:--------------:|:------:|
-| <img src="https://img.icons8.com/fluency/48/000000/coursera.png" width="30"/> **Coursera** | 6+ | Full Stack Development |
-| <img src="https://img.icons8.com/color/48/000000/infosys.png" width="30"/> **Infosys** | 3+ | Technical Skills |
-| <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="30"/> **NPTEL** | Multiple | Soft Skills & Leadership |
-| <img src="https://img.icons8.com/fluency/48/000000/internship.png" width="30"/> **Internship** | 1 | Professional Experience |
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<div align="center">
-
-```yaml
-Role: Freelance Full Stack Developer
-Period: 2025
-Projects: 6+ Real Client Projects
-Mentor: 10+ Years Experienced Developer
-Skills: 
-  - Independent Development
-  - Client Communication
-  - Project Delivery
-  - Industry Standards
-  - Time Management
-```
-
-</div>
-
----
-
-## 🌟 Community Contributions
+## 🌟 Community Stuff (Giving Back)
 
 <div align="center">
 
@@ -350,28 +298,28 @@ Skills:
 <br />
 <b>👨‍🏫 Mentorship</b>
 <br />
-<i>Guided 20+ first-year students<br/>in coding & projects</i>
+<i>Guided 20+ first-years<br/>Taught them git > panic</i>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/blood-donation.png" width="80" />
 <br />
-<b>🩸 Blood Donation</b>
+<b>🩸 Blood Donor</b>
 <br />
-<i>5+ donations<br/>to community</i>
+<i>5+ donations<br/>Type: Bug-Free+</i>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/groups.png" width="80" />
 <br />
-<b>🎪 Events</b>
+<b>🎪 Event Junkie</b>
 <br />
-<i>Active in college<br/>technical workshops</i>
+<i>College workshops<br/>Free pizza > sleep</i>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/open-source.png" width="80" />
 <br />
-<b>🌐 Open Source</b>
+<b>🌐 OSS Contributor</b>
 <br />
-<i>Contributing to<br/>meaningful projects</i>
+<i>Pull requests > Push ups<br/>(Most of the time)</i>
 </td>
 </tr>
 </table>
@@ -380,7 +328,7 @@ Skills:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect! (I Promise I Reply... Eventually)
 
 <div align="center">
 
@@ -390,13 +338,13 @@ Skills:
 <a href="https://linkedin.com/in/rajesh-n-4922622a6">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/rajeshkit/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="YOUR_CODECHEF_URL">
+<a href="https://www.codechef.com/users/kit27ad45">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/711523bad045">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -405,7 +353,7 @@ Skills:
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20with%20purpose.%20Build%20with%20impact.&author=Rajesh%20N" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" />
 </div>
 
 ---
@@ -414,9 +362,25 @@ Skills:
   
 ### 🎯 Open to Opportunities
 
-**Full Stack Development • AI/ML Engineering • Software Development**
+**Full Stack Dev • AI/ML Engineering • Software Development**
 
 *Available for freelance projects, internships, and full-time positions*
+
+*Current status: Open to work (and good coffee recommendations)*
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Life Philosophy
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+> "My code works. I don't know why. | My code doesn't work. I don't know why." – Every Developer Ever
+
+> "Debugging is like being a detective in a crime movie where you're also the murderer." – Filipe Fortes
 
 </div>
 
@@ -426,6 +390,8 @@ Skills:
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
 
-**© 2025 Rajesh N | Made with ❤️ and lots of ☕**
+**© 2025 Rajesh N | Crafted with ❤️, ☕, and lots of Stack Overflow**
+
+*P.S. - If you're reading this, you're awesome! Drop a ⭐ on my repos!*
 
 </div>
