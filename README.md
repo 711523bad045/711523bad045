@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 About Me
+###  About Me
 
 ```javascript
 const rajesh = {
@@ -102,21 +102,7 @@ const rajesh = {
 
 ##  GitHub Stats (The Truth Revealed)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=711523bad045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=711523bad045&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=711523bad045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=711523bad045&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=711523bad045&theme=tokyonight" width="98%" />
-</div>
-
----
 
 ##  Tech Stack (My Digital Toolbox)
 
