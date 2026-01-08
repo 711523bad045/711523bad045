@@ -210,33 +210,117 @@ Production-ready EMS because Excel sheets are so 2010.
 
 ### 🏫 Dynamic School Website
 **The Digital Notice Board**
+[`View Repo →`](https://github.com/711523bad045/Dynamic-School-Website)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
-Multi-page responsive website that loads faster than your morning coffee.
+Multi-page responsive website that loads faster than your morning coffee. Built for a real school that wanted to ditch their ancient website (from the floppy disk era).
 
+**What's Inside:**
 - 📱 Works on everything (even your smartwatch, probably)
 - 🔐 Local storage auth (client wanted simple, client got simple)
-- ⚡ Performance that makes Google jealous
-- 🎨 Design that doesn't hurt eyes
+- 🎨 Modern UI with smooth animations
+- 📰 Dynamic content management
+- 📧 Contact forms that don't go to spam
+- ⚡ Performance score: 95+ (PageSpeed loves it)
+- 📚 Multiple pages: Home, About, Academics, Gallery, Contact
+
+**Why It's Cool:** Client brief = "Make it modern but not fancy." Mission accomplished. No frameworks, just pure HTML/CSS/JS proving vanilla can be spicy too.
 
 </td>
 <td width="50%">
 
 ### ✅ Task Management App
 **The Procrastination Fighter**
+[`View Repo →`](https://github.com/711523bad045/Task-Management-App)
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/LocalStorage-FFA500?style=flat&logo=json&logoColor=white" />
 
-Because sticky notes are for amateurs.
+Because sticky notes are for amateurs and your brain has better things to remember.
 
-- 📁 Organize tasks like Marie Kondo
+**Features That Actually Help:**
+- 📁 Organize tasks like Marie Kondo (spark joy or delete)
 - ⚡ Real-time updates (faster than your motivation drops)
-- 🎯 Intuitive UI (even your parents can use it)
-- 🌈 Pretty colors (dopamine boost included)
+- 🎯 Category-based organization (Work, Personal, Random Ideas at 3AM)
+- 🎨 Intuitive sidebar navigation
+- ✏️ Edit/Delete without confirmation anxiety
+- 💾 LocalStorage persistence (survives browser crashes)
+- 🌈 Clean UI that doesn't hurt eyes
+
+**The Real Talk:** Built this because I kept forgetting client deadlines (not anymore!). Now my calendar and I are best friends.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Knowledge Assistant
+**Your 24/7 Smart Study Buddy**
+[`View Repo →`](https://github.com/711523bad045/AI-Knowledge-Assistant)
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat" />
+
+Full-stack AI knowledge assistant that's smarter than your group chat (and actually helps with homework).
+
+**Intelligence Features:**
+- 🧠 AI-powered Q&A system (GPT integration done right)
+- 💬 Natural language processing
+- 📚 Context-aware responses
+- 🔍 Smart search functionality
+- 💾 Conversation history (remember what you forgot)
+- 🎨 Clean React frontend
+- ⚡ FastAPI backend (because speed matters)
+- 🔐 User authentication & personalization
+
+**The Stack:**
+- **Frontend:** React with Hooks, Modern UI/UX
+- **Backend:** Python FastAPI (async & blazing fast)
+- **AI:** Custom trained models + API integration
+- **State Management:** Context API
+
+**Use Cases:** Study aid, research assistant, concept explainer, late-night homework helper (no judgment).
+
+</td>
+<td width="50%">
+
+### 🏢 Company Intelligence AI
+**From Domain to Deep Insights**
+[`View Repo →`](https://github.com/711523bad045/Company_intelligence-Ai)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Research-blue?style=flat" />
+<img src="https://img.shields.io/badge/Web_Scraping-success?style=flat" />
+
+Give it a company domain, get back everything except their office WiFi password. Perfect for sales research, competitive analysis, or healthy curiosity.
+
+**What It Does:**
+- 🔍 Automated web scraping & data mining
+- 🏢 Company information aggregation
+- 📊 Industry analysis & insights
+- 👥 Key personnel identification
+- 💼 Product/service cataloging
+- 📈 Market positioning analysis
+- 🌐 Social media presence mapping
+- 📧 Contact information extraction
+
+**Tech Magic:**
+- **Scraping:** BeautifulSoup, Selenium (for the stubborn sites)
+- **AI/ML:** NLP for data extraction & categorization
+- **Frontend:** Simple HTML interface (keep it clean)
+- **Backend:** Python orchestrating the intelligence gathering
+
+**Real World Use:** Built for sales teams who need company intel fast. Enter "example.com" → Get comprehensive company profile in minutes, not hours of Googling.
+
+**Ethical Note:** Only scrapes publicly available information. No hacking, no dark arts, just smart automation.
 
 </td>
 </tr>
