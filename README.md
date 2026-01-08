@@ -98,11 +98,6 @@ const rajesh = {
 
 </div>
 
----
-
-##  GitHub Stats (The Truth Revealed)
-
-
 
 ##  Tech Stack (My Digital Toolbox)
 
