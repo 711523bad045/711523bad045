@@ -72,7 +72,6 @@ const rajesh = {
 </table>
 
 ###  CodeChef - My Spice Tolerance Test
-
 <a href="https://www.codechef.com/users/kit27ad45">
   <img src="https://cp-logo.vercel.app/codechef/kit27ad45" alt="CodeChef Rating" />
 </a>
