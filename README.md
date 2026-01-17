@@ -49,7 +49,6 @@ const rajesh = {
 <div align="center">
 
 ###  LeetCode - Where I Torture Data Structures
-
 <a href="https://leetcode.com/u/rajeshkit/">
   <img src="https://leetcard.jacoblin.cool/rajeshkit?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </a>
