@@ -1,409 +1,1089 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Rajesh%20N&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Hey!+I'm+Rajesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;1000%2B+Problems+Solved+%F0%9F%94%A5;Building+Real+Client+Projects+%F0%9F%9A%80;Code%2C+Coffee%2C+Repeat+%E2%98%95;2+Years+of+Consistent+Grinding+%F0%9F%93%88" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:kit27.ad45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rajesh-n-4922622a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/rajeshkit/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/kit27ad45"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=711523bad045&label=Profile%20Views&color=667eea&style=for-the-badge" />
-</p>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-###  About Me
-
-```javascript
-const rajesh = {
-    pronouns: "He" | "Him",
-    location: "Coimbatore",
-    education: "B.Tech AI & Data Science @ KIT",
-    year: "Pre-Final Year (The Dangerous Zone )",
-    role: "Freelance Full Stack Dev",
-    dailyRoutine: ["Code", "Debug", "Coffee", "Repeat"],
-    codeStyle: "Clean, Commented, & Caffeinated",
-    experience: {
-        clientProjects: 6,
-        problemsSolved: "1000+ (and counting...)",
-        yearsOfCoding: 2,
-        cupsOfCoffee: "∞"
-    },
-    currentMission: "Building stuff that actually works",
-    funFact: "I've solved more coding problems than life problems "
-};
-```
-
-<br clear="right"/>
-
----
-
-##  Competitive Programming Arsenal
-
-<div align="center">
-
-###  LeetCode - Where I Torture Data Structures
-<a href="https://leetcode.com/u/rajeshkit/">
-  <img src="https://leetcard.jacoblin.cool/rajeshkit?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</a>
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Problems-300+-00b8a3?style=for-the-badge" />
-  <br/><sub>Still grinding</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Streak-2%20Years-orange?style=for-the-badge" />
-  <br/><sub>Consistency > Intensity</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Rank-Top%2023.6%25-yellow?style=for-the-badge" />
-  <br/><sub>Getting there!</sub>
-</td>
-</tr>
-</table>
-
-###  CodeChef - My Spice Tolerance Test
-<a href="https://www.codechef.com/users/kit27ad45">
-  <img src="https://cp-logo.vercel.app/codechef/kit27ad45" alt="CodeChef Rating" />
-</a>
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Rating-1450-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <br/><sub>2 Chef</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Solved-370+-success?style=for-the-badge" />
-  <br/><sub>More than my calorie count</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Active-2%20Years-blue?style=for-the-badge" />
-  <br/><sub>Long contests = Life</sub>
-</td>
-</tr>
-</table>
-
-<p><i> Also haunting Codeforces, Coding Ninjas & HackerRank (when I remember my passwords)</i></p>
-
-</div>
-
-
-##  Tech Stack (My Digital Toolbox)
-
-<div align="center">
-
-### Frontend - Making Things Pretty
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Backend - Where the Magic Happens
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### Database - Data Hoarding HQ
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### Tools - My Daily Drivers
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</p>
-
-</div>
-
----
-
-##  Featured Projects (Stuff That Actually Works!)
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-###  TNPSC Learning Hub
-**The Government Exam Cracker**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-
-Full-fledged learning platform with REST APIs, user management, and more bells & whistles than a Christmas tree.
-
--  Auth that actually keeps bad guys out
--  Video lectures (buffering not included)
--  Progress tracking (guilt-free)
--  Responsive UI (looks good on your grandma's phone too)
-
-</td>
-<td width="50%">
-
-###  Employee Management System
-**The Office Paper Killer**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-
-Production-ready EMS because Excel sheets are so 2010.
-
--  JWT auth (NSA-approved*)
--  Employee CRUD (Create, Read, Update, Delete... and Coffee)
--  Role-based access (Keep the interns away from payroll)
--  Task tracking (Your boss's dream come true)
-
-<sub>*Not actually approved by NSA</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### AI Knowledge Assistant
-**Your 24/7 Smart Study Buddy**
-[`View Repo →`](https://github.com/711523bad045/AI-Knowledge-Assistant)
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat" />
-
-Full-stack AI knowledge assistant that's smarter than your group chat (and actually helps with homework).
-
-**Intelligence Features:**
--  AI-powered Q&A system (GPT integration done right)
--  Natural language processing
--  Context-aware responses
--  Smart search functionality
--  Conversation history (remember what you forgot)
--  Clean React frontend
--  FastAPI backend (because speed matters)
--  User authentication & personalization
-
-**The Stack:**
-- **Frontend:** React with Hooks, Modern UI/UX
-- **Backend:** Python FastAPI (async & blazing fast)
-- **AI:** Custom trained models + API integration
-- **State Management:** Context API
-
-**Use Cases:** Study aid, research assistant, concept explainer, late-night homework helper (no judgment).
-
-</td>
-<td width="50%">
-
-###  Company Intelligence AI
-**From Domain to Deep Insights**
-[`View Repo →`](https://github.com/711523bad045/Company_intelligence-Ai)
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Research-blue?style=flat" />
-<img src="https://img.shields.io/badge/Web_Scraping-success?style=flat" />
-
-Give it a company domain, get back everything except their office WiFi password. Perfect for sales research, competitive analysis, or healthy curiosity.
-
-**What It Does:**
--  Automated web scraping & data mining
--  Company information aggregation
--  Industry analysis & insights
--  Key personnel identification
--  Product/service cataloging
--  Market positioning analysis
--  Social media presence mapping
--  Contact information extraction
-
-**Tech Magic:**
-- **Scraping:** BeautifulSoup, Selenium (for the stubborn sites)
-- **AI/ML:** NLP for data extraction & categorization
-- **Frontend:** Simple HTML interface (keep it clean)
-- **Backend:** Python orchestrating the intelligence gathering
-
-**Real World Use:** Built for sales teams who need company intel fast. Enter "example.com" → Get comprehensive company profile in minutes, not hours of Googling.
-
-**Ethical Note:** Only scrapes publicly available information. No hacking, no dark arts, just smart automation.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-##  Achievements (Humble Brag Section)
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80" />
-<br />
-<b> 2nd Prize</b>
-<br />
-<i>Debugging Competition<br/>KPR College<br/>(Found bugs faster than QA)</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/document.png" width="80" />
-<br />
-<b> Research Paper</b>
-<br />
-<i>Scopus Publication<br/>CNN-LSTM System<br/>(Sounds fancy, I know)</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/laptop-coding.png" width="80" />
-<br />
-<b> 6+ Projects</b>
-<br />
-<i>Real Client Work<br/>Production Level<br/>(Not just TODO apps)</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/graduation-cap.png" width="80" />
-<br />
-<b>🎓 10+ Certificates</b>
-<br />
-<i>Coursera, Infosys, NPTEL<br/>& More<br/>(LinkedIn loves me)</i>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-##  Community Stuff (Giving Back)
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/teacher.png" width="80" />
-<br />
-<b> Mentorship</b>
-<br />
-<i>Guided 20+ first-years<br/>Taught them git > panic</i>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/blood-donation.png" width="80" />
-<br />
-<b Blood Donor</b>
-<br />
-<i>5+ donations<br/>Type: Bug-Free+</i>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/groups.png" width="80" />
-<br />
-<b> Event Junkie</b>
-<br />
-<i>College workshops<br/>Free pizza > sleep</i>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/open-source.png" width="80" />
-<br />
-<b> OSS Contributor</b>
-<br />
-<i>Pull requests > Push ups<br/>(Most of the time)</i>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-##  Let's Connect! (I Promise I Reply... Eventually)
-
-<div align="center">
-
-<a href="mailto:kit27.ad45@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://linkedin.com/in/rajesh-n-4922622a6">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/rajeshkit/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/kit27ad45">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="https://github.com/711523bad045">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" />
-</div>
-
----
-
-<div align="center">
-  
-### 🎯 Open to Opportunities
-
-**Full Stack Dev • AI/ML Engineering • Software Development**
-
-*Available for freelance projects, internships, and full-time positions*
-
-*Current status: Open to work (and good coffee recommendations)*
-
-</div>
-
----
-
-<div align="center">
-
-###  Life Philosophy
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-> "My code works. I don't know why. | My code doesn't work. I don't know why." – Every Developer Ever
-
-> "Debugging is like being a detective in a crime movie where you're also the murderer." – Filipe Fortes
-
-</div>
-
----
-
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
-
-**© 2025 Rajesh N | Crafted with ❤️, and lots of Stack Overflow**
-
-*P.S. - If you're reading this, you're awesome! Drop a ⭐ on my repos!*
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rajesh N - Full Stack Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #667eea;
+            --secondary: #764ba2;
+            --dark-bg: #0a0a1a;
+            --card-bg: rgba(20, 20, 40, 0.8);
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0c0;
+            --accent: #61dafb;
+        }
+
+        body {
+            font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: linear-gradient(135deg, #0a0a1a 0%, #1a1a3e 100%);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 30% 50%, rgba(102, 126, 234, 0.15), transparent 50%),
+                        radial-gradient(circle at 70% 50%, rgba(118, 75, 162, 0.15), transparent 50%);
+            animation: pulse 8s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.5; }
+            50% { opacity: 1; }
+        }
+
+        .hero-content {
+            text-align: center;
+            position: relative;
+            z-index: 1;
+            padding: 60px 20px;
+        }
+
+        .hero-title {
+            font-size: clamp(3rem, 8vw, 6rem);
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.2rem, 3vw, 1.8rem);
+            color: var(--text-secondary);
+            margin-bottom: 30px;
+            font-weight: 300;
+        }
+
+        .hero-description {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin: 0 auto 40px;
+            line-height: 1.8;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 40px;
+        }
+
+        .btn {
+            padding: 14px 32px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-block;
+            font-size: 1rem;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 25px rgba(102, 126, 234, 0.6);
+        }
+
+        .btn-outline {
+            border: 2px solid var(--primary);
+            color: var(--primary);
+            background: transparent;
+        }
+
+        .btn-outline:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .social-link {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: var(--card-bg);
+            border: 1px solid rgba(102, 126, 234, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .social-link:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-5px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        /* Stats Section */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 30px;
+            padding: 80px 0;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .stat-card {
+            text-align: center;
+            padding: 30px;
+            background: var(--card-bg);
+            border-radius: 15px;
+            border: 1px solid rgba(102, 126, 234, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-5px);
+        }
+
+        .stat-number {
+            font-size: 3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            margin-top: 10px;
+            font-size: 1rem;
+        }
+
+        /* Section Styles */
+        .section {
+            padding: 100px 0;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .section-title {
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            font-weight: 700;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .section-subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Projects Grid */
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 40px;
+        }
+
+        .project-card {
+            background: var(--card-bg);
+            border-radius: 20px;
+            padding: 40px;
+            border: 1px solid rgba(102, 126, 234, 0.2);
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+
+        .project-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--primary);
+            box-shadow: 0 20px 50px rgba(102, 126, 234, 0.3);
+        }
+
+        .project-card:hover::before {
+            opacity: 1;
+        }
+
+        .project-content {
+            position: relative;
+            z-index: 1;
+        }
+
+        .project-header {
+            margin-bottom: 20px;
+        }
+
+        .project-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: var(--text-primary);
+        }
+
+        .project-subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            font-weight: 500;
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 20px 0;
+        }
+
+        .tech-badge {
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            background: rgba(102, 126, 234, 0.2);
+            color: var(--accent);
+            border: 1px solid rgba(102, 126, 234, 0.3);
+        }
+
+        .project-description {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .project-features {
+            list-style: none;
+            margin: 20px 0;
+        }
+
+        .project-features li {
+            padding: 10px 0;
+            padding-left: 30px;
+            position: relative;
+            color: var(--text-secondary);
+        }
+
+        .project-features li::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            color: var(--primary);
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        .project-links {
+            display: flex;
+            gap: 15px;
+            margin-top: 25px;
+        }
+
+        .project-link {
+            padding: 10px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .project-link-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .project-link-primary:hover {
+            background: var(--secondary);
+            transform: translateX(5px);
+        }
+
+        /* Experience Timeline */
+        .timeline {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .timeline-item {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 15px;
+            border-left: 4px solid var(--primary);
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .timeline-item:hover {
+            transform: translateX(10px);
+            border-color: var(--secondary);
+        }
+
+        .timeline-date {
+            color: var(--primary);
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .timeline-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .timeline-description {
+            color: var(--text-secondary);
+            line-height: 1.8;
+        }
+
+        /* Skills Grid */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .skill-category {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 15px;
+            border: 1px solid rgba(102, 126, 234, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .skill-category:hover {
+            border-color: var(--primary);
+            transform: translateY(-5px);
+        }
+
+        .skill-category h3 {
+            color: var(--primary);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+        .skill-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .skill-tag {
+            padding: 8px 16px;
+            background: rgba(102, 126, 234, 0.1);
+            border: 1px solid rgba(102, 126, 234, 0.3);
+            border-radius: 20px;
+            color: var(--text-primary);
+            font-size: 0.9rem;
+        }
+
+        /* Contact Section */
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .contact-card {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            border: 1px solid rgba(102, 126, 234, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .contact-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-5px);
+        }
+
+        .contact-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+
+        .contact-label {
+            color: var(--text-secondary);
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .contact-value {
+            color: var(--primary);
+            font-size: 1.1rem;
+            font-weight: 600;
+            text-decoration: none;
+            display: block;
+        }
+
+        .contact-value:hover {
+            color: var(--secondary);
+        }
+
+        /* Footer */
+        footer {
+            background: var(--card-bg);
+            padding: 40px 20px;
+            text-align: center;
+            border-top: 1px solid rgba(102, 126, 234, 0.2);
+            margin-top: 100px;
+        }
+
+        .footer-text {
+            color: var(--text-secondary);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .hero-title {
+                font-size: 3rem;
+            }
+
+            .cta-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .btn {
+                width: 100%;
+                max-width: 300px;
+            }
+        }
+
+        /* Smooth Scroll */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .fade-in-up {
+            animation: fadeInUp 0.6s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content fade-in-up">
+                <h1 class="hero-title">Rajesh N</h1>
+                <p class="hero-subtitle">Full Stack Developer | AI Enthusiast | Competitive Programmer</p>
+                <p class="hero-description">
+                    Pre-final year student specializing in AI & Data Science, building production-ready applications 
+                    with 2 years of consistent coding and 6+ delivered client projects.
+                </p>
+                <div class="cta-buttons">
+                    <a href="#projects" class="btn btn-primary">View My Work</a>
+                    <a href="#contact" class="btn btn-outline">Get In Touch</a>
+                </div>
+                <div class="social-links">
+                    <a href="https://github.com/711523bad045" target="_blank" class="social-link" title="GitHub">GH</a>
+                    <a href="https://linkedin.com/in/rajesh-n-4922622a6" target="_blank" class="social-link" title="LinkedIn">LI</a>
+                    <a href="https://leetcode.com/u/rajeshkit/" target="_blank" class="social-link" title="LeetCode">LC</a>
+                    <a href="https://www.codechef.com/users/kit27ad45" target="_blank" class="social-link" title="CodeChef">CC</a>
+                    <a href="mailto:kit27.ad45@gmail.com" class="social-link" title="Email">✉</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <div class="container">
+        <div class="stats">
+            <div class="stat-card fade-in-up">
+                <div class="stat-number">1000+</div>
+                <div class="stat-label">Problems Solved</div>
+            </div>
+            <div class="stat-card fade-in-up">
+                <div class="stat-number">6+</div>
+                <div class="stat-label">Client Projects</div>
+            </div>
+            <div class="stat-card fade-in-up">
+                <div class="stat-number">2</div>
+                <div class="stat-label">Years Coding</div>
+            </div>
+            <div class="stat-card fade-in-up">
+                <div class="stat-number">7.71</div>
+                <div class="stat-label">CGPA</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Featured Projects</h2>
+                <p class="section-subtitle">Production-ready applications built with modern technologies</p>
+            </div>
+
+            <div class="projects-grid">
+                <!-- TNPSC Learning Hub -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <div class="project-header">
+                            <h3 class="project-title">TNPSC Learning Hub</h3>
+                            <p class="project-subtitle">Government Exam Preparation Platform</p>
+                        </div>
+
+                        <div class="tech-stack">
+                            <span class="tech-badge">React.js</span>
+                            <span class="tech-badge">Node.js</span>
+                            <span class="tech-badge">MySQL</span>
+                            <span class="tech-badge">REST API</span>
+                        </div>
+
+                        <p class="project-description">
+                            Full-stack learning platform featuring comprehensive exam preparation tools, 
+                            user authentication, video lectures, and progress tracking systems.
+                        </p>
+
+                        <ul class="project-features">
+                            <li>Secure JWT-based authentication system</li>
+                            <li>RESTful API architecture for scalable data management</li>
+                            <li>Real-time progress tracking and analytics</li>
+                            <li>Responsive design optimized for all devices</li>
+                            <li>Video lecture integration with buffering optimization</li>
+                        </ul>
+
+                        <div class="project-links">
+                            <a href="#contact" class="project-link project-link-primary">View Details →</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Employee Management System -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <div class="project-header">
+                            <h3 class="project-title">Employee Management System</h3>
+                            <p class="project-subtitle">Enterprise-Grade EMS Solution</p>
+                        </div>
+
+                        <div class="tech-stack">
+                            <span class="tech-badge">Python</span>
+                            <span class="tech-badge">JavaScript</span>
+                            <span class="tech-badge">MySQL</span>
+                            <span class="tech-badge">JWT</span>
+                        </div>
+
+                        <p class="project-description">
+                            Production-ready employee management system replacing traditional Excel workflows 
+                            with modern, secure, and efficient digital solutions.
+                        </p>
+
+                        <ul class="project-features">
+                            <li>Complete CRUD operations for employee data</li>
+                            <li>Role-based access control (RBAC) system</li>
+                            <li>Secure JWT authentication and authorization</li>
+                            <li>Advanced task tracking and assignment features</li>
+                            <li>Automated reporting and analytics dashboard</li>
+                        </ul>
+
+                        <div class="project-links">
+                            <a href="#contact" class="project-link project-link-primary">View Details →</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AI Knowledge Assistant -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <div class="project-header">
+                            <h3 class="project-title">AI Knowledge Assistant</h3>
+                            <p class="project-subtitle">Intelligent Study Companion</p>
+                        </div>
+
+                        <div class="tech-stack">
+                            <span class="tech-badge">React.js</span>
+                            <span class="tech-badge">Python</span>
+                            <span class="tech-badge">FastAPI</span>
+                            <span class="tech-badge">AI/ML</span>
+                            <span class="tech-badge">NLP</span>
+                        </div>
+
+                        <p class="project-description">
+                            Advanced AI-powered knowledge assistant leveraging natural language processing 
+                            and machine learning for intelligent Q&A and contextual understanding.
+                        </p>
+
+                        <ul class="project-features">
+                            <li>GPT integration for intelligent responses</li>
+                            <li>Context-aware conversation management</li>
+                            <li>Natural language processing capabilities</li>
+                            <li>User authentication and personalization</li>
+                            <li>Async FastAPI backend for optimal performance</li>
+                            <li>Modern React UI with hooks and state management</li>
+                        </ul>
+
+                        <div class="project-links">
+                            <a href="https://github.com/711523bad045/AI-Knowledge-Assistant" target="_blank" class="project-link project-link-primary">View Repository →</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Company Intelligence AI -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <div class="project-header">
+                            <h3 class="project-title">Company Intelligence AI</h3>
+                            <p class="project-subtitle">Business Intelligence Automation</p>
+                        </div>
+
+                        <div class="tech-stack">
+                            <span class="tech-badge">Python</span>
+                            <span class="tech-badge">HTML5</span>
+                            <span class="tech-badge">BeautifulSoup</span>
+                            <span class="tech-badge">Selenium</span>
+                            <span class="tech-badge">NLP</span>
+                        </div>
+
+                        <p class="project-description">
+                            Automated company intelligence gathering system using web scraping, NLP, 
+                            and AI to extract comprehensive business insights from company domains.
+                        </p>
+
+                        <ul class="project-features">
+                            <li>Automated web scraping and data aggregation</li>
+                            <li>AI-powered data extraction and categorization</li>
+                            <li>Company profile generation and analysis</li>
+                            <li>Market positioning and competitive insights</li>
+                            <li>Personnel identification and org mapping</li>
+                            <li>Ethical scraping of public information only</li>
+                        </ul>
+
+                        <div class="project-links">
+                            <a href="https://github.com/711523bad045/Company_intelligence-Ai" target="_blank" class="project-link project-link-primary">View Repository →</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dynamic School Website -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <div class="project-header">
+                            <h3 class="project-title">Dynamic School Website</h3>
+                            <p class="project-subtitle">Interactive Educational Portal</p>
+                        </div>
+
+                        <div class="tech-stack">
+                            <span class="tech-badge">HTML5</span>
+                            <span class="tech-badge">CSS3</span>
+                            <span class="tech-badge">JavaScript</span>
+                            <span class="tech-badge">Local Storage</span>
+                        </div>
+
+                        <p class="project-description">
+                            Fully responsive multi-page school website with dynamic features, user authentication, 
+                            and comprehensive information architecture for admissions and curriculum.
+                        </p>
+
+                        <ul class="project-features">
+                            <li>Clean, modern UI with structured navigation</li>
+                            <li>Login and signup functionality using Local Storage</li>
+                            <li>Dynamic sections for curriculum and facilities</li>
+                            <li>Fully responsive across all device sizes</li>
+                            <li>Interactive forms with client-side validation</li>
+                        </ul>
+
+                        <div class="project-links">
+                            <a href="#contact" class="project-link project-link-primary">View Details →</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section" style="background: rgba(10, 10, 26, 0.5);">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Experience</h2>
+                <p class="section-subtitle">Professional development journey</p>
+            </div>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">June 2025 - Present</div>
+                    <h3 class="timeline-title">Freelance Full Stack Developer</h3>
+                    <div class="timeline-description">
+                        <p style="margin-bottom: 10px;">Coimbatore, India (Remote)</p>
+                        <ul style="margin-left: 20px; color: var(--text-secondary); line-height: 1.8;">
+                            <li>Delivered 6+ production-ready full-stack web applications for real clients</li>
+                            <li>Collaborated with senior developer (10+ years IT experience) on enterprise projects</li>
+                            <li>Managed end-to-end development lifecycle from requirements to deployment</li>
+                            <li>Implemented modern tech stacks including React, Node.js, Python, and MySQL</li>
+                            <li>Ensured code quality, scalability, and optimal performance across all projects</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-date">2023 - 2027</div>
+                    <h3 class="timeline-title">B.Tech in AI & Data Science</h3>
+                    <div class="timeline-description">
+                        <p style="margin-bottom: 10px;">KIT - Kalaignarkarunanidhi Institute of Technology</p>
+                        <p style="color: var(--text-secondary);">Current CGPA: 7.71/10.0 | Pre-Final Year</p>
+                        <p style="color: var(--text-secondary); margin-top: 10px;">
+                            Coursework: Data Science, Computer Networks, Operating Systems, Database Management Systems, 
+                            Machine Learning, Deep Learning, Artificial Intelligence
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Technical Skills</h2>
+                <p class="section-subtitle">Technologies and tools I work with</p>
+            </div>
+
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Programming Languages</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">C</span>
+                        <span class="skill-tag">Java</span>
+                        <span class="skill-tag">SQL</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Frontend Development</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">React.js</span>
+                        <span class="skill-tag">HTML5</span>
+                        <span class="skill-tag">CSS3</span>
+                        <span class="skill-tag">JavaScript (ES6+)</span>
+                        <span class="skill-tag">Responsive Design</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Backend Development</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">Node.js</span>
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">Flask</span>
+                        <span class="skill-tag">FastAPI</span>
+                        <span class="skill-tag">REST APIs</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Databases</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">MySQL</span>
+                        <span class="skill-tag">MongoDB</span>
+                        <span class="skill-tag">Database Design</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>AI & Machine Learning</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">Machine Learning</span>
+                        <span class="skill-tag">NLP</span>
+                        <span class="skill-tag">Deep Learning</span>
+                        <span class="skill-tag">Data Analysis</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Tools & Technologies</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">Git</span>
+                        <span class="skill-tag">GitHub</span>
+                        <span class="skill-tag">Postman</span>
+                        <span class="skill-tag">VS Code</span>
+                        <span class="skill-tag">JWT</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Competitive Programming</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">LeetCode (1600 rating)</span>
+                        <span class="skill-tag">CodeChef (2★)</span>
+                        <span class="skill-tag">DSA</span>
+                        <span class="skill-tag">Problem Solving</span>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Other Skills</h3>
+                    <div class="skill-list">
+                        <span class="skill-tag">Data Structures</span>
+                        <span class="skill-tag">Algorithms</span>
+                        <span class="skill-tag">OOP</span>
+                        <span class="skill-tag">Web Scraping</span>
+                        <span class="skill-tag">API Development</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section class="section" style="background: rgba(10, 10, 26, 0.5);">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Achievements</h2>
+                <p class="section-subtitle">Milestones and recognition</p>
+            </div>
+
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>🏆 Competitive Programming</h3>
+                    <div class="timeline-description">
+                        <ul style="margin-left: 20px; color: var(--text-secondary); line-height: 1.8;">
+                            <li><strong>LeetCode:</strong> Max rating 1600 | 300+ problems | Top 23.6% globally</li>
+                            <li><strong>CodeChef:</strong> 2★ rating (1450) | 500+ problems solved | Global rank 38,915</li>
+                            <li><strong>CodeForces:</strong> 30+ problems solved</li>
+                            <li><strong>Coding Ninjas:</strong> 50+ problems solved</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>🎯 Awards & Recognition</h3>
+                    <div class="timeline-description">
+                        <ul style="margin-left: 20px; color: var(--text-secondary); line-height: 1.8;">
+                            <li>2nd Prize in Debugging Competition at KPR College</li>
+                            <li>GitHub Achievement for highest project contributions (2nd year)</li>
+                            <li>Published research paper in Scopus: "CNN-LSTM Based Cloudburst Warning System"</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>📜 Certifications</h3>
+                    <div class="timeline-description">
+                        <ul style="margin-left: 20px; color: var(--text-secondary); line-height: 1.8;">
+                            <li>6+ Coursera certifications (AI, AWS, UX Design)</li>
+                            <li>3+ Infosys Springboard certifications</li>
+                            <li>NPTEL Soft Skills Development</li>
+                            <li>Various technical internships and workshops</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>🤝 Community Involvement</h3>
+                    <div class="timeline-description">
+                        <ul style="margin-left: 20px; color: var(--text-secondary); line-height: 1.8;">
+                            <li>Mentored 20+ first-year students in coding fundamentals</li>
+                            <li>Blood donor with 5+ donations</li>
+                            <li>Active participant in college workshops and events</li>
+                            <li>Open-source contributor</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Get In Touch</h2>
+                <p class="section-subtitle">Open to opportunities, collaborations, and interesting projects</p>
+            </div>
+
+            <div class="contact-grid">
+                <div class="contact-card">
+                    <div class="contact-icon">📧</div>
+                    <div class="contact-label">Email</div>
+                    <a href="mailto:kit27.ad45@gmail.com" class="contact-value">kit27.ad45@gmail.com</a>
+                </div>
+
+                <div class="contact-card">
+                    <div class="contact-icon">📱</div>
+                    <div class="contact-label">Phone</div>
+                    <a href="tel:+919751247267" class="contact-value">+91 9751247267</a>
+                </div>
+
+                <div class="contact-card">
+                    <div class="contact-icon">💼</div>
+                    <div class="contact-label">LinkedIn</div>
+                    <a href="https://linkedin.com/in/rajesh-n-4922622a6" target="_blank" class="contact-value">Connect with me</a>
+                </div>
+
+                <div class="contact-card">
+                    <div class="contact-icon">💻</div>
+                    <div class="contact-label">GitHub</div>
+                    <a href="https://github.com/711523bad045" target="_blank" class="contact-value">View my code</a>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin-top: 50px;">
+                <p style="color: var(--text-secondary); font-size: 1.1rem; margin-bottom: 20px;">
+                    📍 Based in Coimbatore, Tamil Nadu, India
+                </p>
+                <p style="color: var(--primary); font-size: 1.2rem; font-weight: 600;">
+                    Currently open for Full-time positions, Internships, and Freelance projects
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p class="footer-text">© 2025 Rajesh N. All rights reserved.</p>
+            <p class="footer-text" style="margin-top: 10px; font-size: 0.9rem;">
+                Built with passion, powered by code ☕
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Intersection Observer for animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '0';
+                    entry.target.style.transform = 'translateY(30px)';
+                    setTimeout(() => {
+                        entry.target.style.transition = 'all 0.6s ease-out';
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }, 100);
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        // Observe all cards and sections
+        document.querySelectorAll('.project-card, .skill-category, .timeline-item, .stat-card, .contact-card').forEach(el => {
+            observer.observe(el);
+        });
+
+        // Add parallax effect to hero
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const hero = document.querySelector('.hero-content');
+            if (hero && scrolled < window.innerHeight) {
+                hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+                hero.style.opacity = 1 - (scrolled / window.innerHeight);
+            }
+        });
+    </script>
+</body>
+</html
